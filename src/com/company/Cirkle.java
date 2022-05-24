@@ -6,6 +6,7 @@ public class Cirkle {
     static double a;
     static double c;
 
+
     public static double area (){
         a = PI * (r*r);
         return a;
